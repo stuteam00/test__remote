@@ -3,12 +3,8 @@ public class HelloWorld {
 	
 	public void sayHello (){
 		
-		System.out.println("Never");
-		
-		System.out.println("What");
-		
-		
-		
+		System.out.println("Hello");
+
 	
 	}
 	
